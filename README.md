@@ -1,4 +1,4 @@
-# 𝗖𝗔𝗧𝗕𝗢𝗧 𝗩1
+# HERMIT V1
 <div align="center">
         <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
 </p>
@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/carllouis_kawasaki_x3?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -55,7 +55,7 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/EiamulfU2OPE2EStzJB6ZM" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
    
 ## Setup
